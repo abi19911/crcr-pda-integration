@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<window>	
+	<!-- <edit_box x="110" y="670" width="640" height="22">
+		<texture>ui_inGame2_edit_box_1</texture>
+		<text x="3" font="letterica16" vert_align="c"/>
+	</edit_box>	 -->
+	<edit_box x="126" y="636" width="640" height="22">
+		<texture>ui_inGame2_edit_box_1</texture>
+		<text x="3" font="letterica16" vert_align="c"/>
+	</edit_box>
+</window>
