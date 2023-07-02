@@ -7,3 +7,5 @@ This current build may be quite buggy, but so far still playable. There's no pro
 
 ## Installation
 Assuming you only have CRCR's gamedata folder installed, delete `Anomaly\gamedata` and replace it with mine.
+
+I recommend installing the [Hide HUD PDA Messages Mod](https://www.moddb.com/mods/stalker-anomaly/addons/hide-hud-pda-messages) if you are looking for more immersion.
